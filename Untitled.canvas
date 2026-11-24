@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"a3eea989cfd4e38e","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Hey, probando obsidian"}
+		{"id":"a3eea989cfd4e38e","type":"text","text":"Hey, probando obsidian","x":-320,"y":-120,"width":250,"height":60}
 	],
 	"edges":[]
 }
