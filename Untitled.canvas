@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"a3eea989cfd4e38e","type":"text","text":"Hey, probando obsidian","x":-320,"y":-120,"width":250,"height":60}
+		{"id":"a3eea989cfd4e38e","type":"text","text":"Hey, probando obsidian","x":-320,"y":-110,"width":250,"height":50},
+		{"id":"fb6f7b30a38a54bc","x":-360,"y":-40,"width":400,"height":400,"type":"file","file":"JSDash.md"}
 	],
 	"edges":[]
 }
