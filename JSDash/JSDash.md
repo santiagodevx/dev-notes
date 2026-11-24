@@ -1,10 +1,1 @@
-
-## Models
-
-
-| id  |     |
-| --- | --- |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
+Playground de JavaScript.
